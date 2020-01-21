@@ -3,7 +3,7 @@
 
 void PrintIntroduction()
 {
-    std::cout << "\n \n In an abandoned castle are unfathomable treasures. Unforutnately, there are five strange magical runes that seal the door to it.";
+    std::cout << "\n \n In an abandoned castle are unfathomable treasures. Unfortunately, there are five strange magical runes that seal the door to it.";
     std::cout << "\nYou've been hired as an expert on decrypting runes.\n";
     std::cout << "You've managed to decrypt runes based on two numerical qualities they are related to.\n";
 }
